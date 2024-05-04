@@ -1,3 +1,7 @@
+
+
+
+"YOUSHA AMTEL
 ### Hi there 👋
 
 <!--
@@ -5,12 +9,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...Cloud Applied Generative AI
 - 🌱 I’m currently learning ...Cloud Applied Generative AI
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...### Hi there 👋www.linkedin.com/in/yousha-amtel-b67313276
+- 💬 Ask me about ...HTML, CSS, Javascript , Typescript
+- 📫 How to reach me: 
+...### Hi there 👋
+www.linkedin.com/in/yousha-amtel-b67313276
 
 
 
